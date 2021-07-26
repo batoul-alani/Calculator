@@ -4,4 +4,7 @@ Using packages:
        math_expressions: ^2.1.1
 
 
-![simple calc](https://user-images.githubusercontent.com/56093885/127059807-f170000b-689f-40e4-a680-aee3da793178.JPG)
+
+
+https://user-images.githubusercontent.com/56093885/127060231-e04483b0-0eed-48ef-bc03-421febc21fa0.mp4
+
